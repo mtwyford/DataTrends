@@ -17,7 +17,7 @@ The following article has a comphrensive overview of all necessary steps for an 
           import weka.core.Instance;
           import weka.core.Instances;
           import weka.core.converters.ArffLoader;
-The first import has the classifier that we will use. 
+The first import has the classifier that we will use. To read more about the library, and other necessary functions, see https://weka.sourceforge.io/doc.dev/overview-summary.html. 
 
 3. Process the dataset. Convert the dataset to a csv and save in a same local directory. 
 
