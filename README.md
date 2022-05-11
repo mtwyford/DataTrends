@@ -60,7 +60,7 @@ Then the following code (which may need some modifications depending on how the 
 		/** Print the algorithm summary */
 		System.out.println("** Linear Regression Evaluation with Datasets **");
 		System.out.println(eval.toSummaryString());
-		System.out.print(" the expression for the input data as per alogorithm is ");
+		System.out.print(" the expression for the input data as per algorithm is ");
 		System.out.println(classifier);
 
 
