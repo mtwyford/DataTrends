@@ -64,4 +64,4 @@ Then the following code (which may need some modifications depending on how the 
 		System.out.println(classifier);
 
 
- ** All code was provided from https://www.codingame.com/playgrounds/3771/machine-learning-with-java---part-1-linear-regression
+ ** All code was provided from https://www.codingame.com/playgrounds/3771/machine-learning-with-java---part-1-linear-regression 
